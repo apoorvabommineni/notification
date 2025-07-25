@@ -44,4 +44,22 @@ node_modules/
 
 npm start
 
+# 6.  API Usage
+
+Endpoint
+
+POST http://localhost:8000/notify/noticationPost
+
+Sample Request Body (JSON)
+
+
+{
+  "message": "Your order has been shipped!",
+  "recipients": [
+    { "type": "email", "to": "apoorvabommineni@gmail.com" },
+    { "type": "sms", "to": "+919573146648" },
+    { "type": "slack", "to": "#shipping-alerts" }
+  ]
+}
+
 
