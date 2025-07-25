@@ -1,0 +1,6 @@
+{"level":30,"time":1753428346455,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"apoorvabommineni@gmail.com","type":"email","status":"sent"}
+{"level":50,"time":1753428347026,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"9573146648","type":"sms","status":"failed","error":"Invalid 'To' Phone Number: 957314XXXX"}
+{"level":30,"time":1753428347392,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"#shipping-alerts","type":"slack","status":"sent"}
+{"level":30,"time":1753428376469,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"apoorvabommineni@gmail.com","type":"email","status":"sent"}
+{"level":30,"time":1753428376854,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"+919573146648","type":"sms","status":"sent"}
+{"level":30,"time":1753428377209,"pid":36012,"hostname":"LAPTOP-G8NS2FNM","to":"#shipping-alerts","type":"slack","status":"sent"}
